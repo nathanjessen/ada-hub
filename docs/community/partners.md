@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Partners
+parent: Community
 ---
 
 [IOHK](https://iohk.io/){: target="_blank" rel="noopener noreferrer" }

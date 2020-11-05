@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Price
+parent: Exchanges
 ---
 
 [CoinCheckup](https://coincheckup.com/coins/cardano){: target="_blank" rel="noopener noreferrer" }
