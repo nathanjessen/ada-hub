@@ -22,4 +22,4 @@ A site dedicated to resources in the Cardano ecosystem.
 
 [Cardano Updates](https://cardanoupdates.com/){: target="_blank" rel="noopener noreferrer" }
 
-[Research Library](https://iohk.io/en/research/library/){: target="_blank" rel="noopener noreferrer" }
+[IOHK Research Library](https://iohk.io/en/research/library/){: target="_blank" rel="noopener noreferrer" }
