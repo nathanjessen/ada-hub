@@ -1,4 +1,4 @@
-title: ADA Pub
+title: Ada Pub
 description: A site dedicated to resources in the Cardano ecosystem.
 baseurl: "/ada-pub"
 url: "https://nathanjessen.com"
@@ -6,3 +6,5 @@ permalink: pretty
 
 theme: null
 remote_theme: pmarsceill/just-the-docs
+
+color_scheme: ada
