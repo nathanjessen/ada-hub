@@ -1,4 +1,4 @@
-# ada-pub
+# Ada Pub
 
 A site dedicated to resources in the Cardano ecosystem.
 
