@@ -4,4 +4,5 @@ baseurl: "/ada-pub"
 url: "https://nathanjessen.com"
 permalink: pretty
 
-theme: "just-the-docs"
+theme: null
+remote_theme: "just-the-docs"
