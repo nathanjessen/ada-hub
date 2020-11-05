@@ -5,10 +5,6 @@ nav_order: 1
 description: A site dedicated to resources in the Cardano ecosystem.
 ---
 
-# {{ site.title }}
-
----
-
 A site dedicated to resources in the Cardano ecosystem.
 
 
