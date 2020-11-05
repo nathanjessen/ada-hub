@@ -21,19 +21,20 @@ aux_links_new_tab: true
 nav_sort: case_insensitive
 
 # Footer "Edit this page on GitHub" link text
-gh_edit_link: false
-gh_edit_repository: "https://github.com/nathanjessen/ada-pub"
-gh_edit_branch: "main"
-gh_edit_link_text: "Edit this page on GitHub."
+# gh_edit_link: false
+# gh_edit_repository: "https://github.com/nathanjessen/ada-pub"
+# gh_edit_branch: "main"
+# gh_edit_link_text: "Edit this page on GitHub."
 # gh_edit_source: docs
-gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+# gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
 
 # Google Analytics Tracking
 # ga_tracking: UA-5555555-55
 # ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
 
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: "page"
+# defaults:
+#   -
+#     scope:
+#       path: ""
+#     values:
+#       layout: "page"

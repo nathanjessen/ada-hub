@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Stake Pool Operation
 parent: Staking
 ---

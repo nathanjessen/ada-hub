@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Staking
 has_children: true
 ---
