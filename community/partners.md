@@ -8,8 +8,8 @@ parent: Community
 
 ---
 
-[Cardano Foundation](https://cardanofoundation.org/){: target="_blank" rel="noopener noreferrer" }
+[Cardano Foundation](https://cardanofoundation.org/)
 
-[Emurgo](https://emurgo.io/){: target="_blank" rel="noopener noreferrer" }
+[Emurgo](https://emurgo.io/)
 
-[IOHK](https://iohk.io/){: target="_blank" rel="noopener noreferrer" }
+[IOHK](https://iohk.io/)
