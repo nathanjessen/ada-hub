@@ -8,3 +8,14 @@ theme: null
 remote_theme: pmarsceill/just-the-docs
 
 color_scheme: ada
+
+# Aux links for the upper right navigation
+aux_links:
+  "View on GitHub":
+    - "//github.com/nathanjessen/ada-pub"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
+
+# Sort order for navigation links
+nav_sort: case_insensitive
