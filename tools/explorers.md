@@ -4,6 +4,10 @@ title: Explorers
 parent: Tools
 ---
 
+# {{ page.title }}
+
+---
+
 [Cardano Explorer](https://explorer.cardano.org/en.html){: target="_blank" rel="noopener noreferrer" }
 
 [ADAex](https://adaex.org/){: target="_blank" rel="noopener noreferrer" }

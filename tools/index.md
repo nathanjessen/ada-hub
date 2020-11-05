@@ -4,6 +4,10 @@ title: Tools
 has_children: true
 ---
 
+# {{ page.title }}
+
+---
+
 [ADAtainment](https://www.adatainment.com/){: target="_blank" rel="noopener noreferrer" }
 
 [Atala Prism](https://www.atalaprism.io/){: target="_blank" rel="noopener noreferrer" }

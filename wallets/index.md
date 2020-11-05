@@ -4,6 +4,10 @@ title: Wallets
 has_children: false
 ---
 
+# {{ page.title }}
+
+---
+
 [Daedalus Wallet](https://daedaluswallet.io/){: target="_blank" rel="noopener noreferrer" }
 
 [Yoroi Wallet](https://yoroi-wallet.com/#/){: target="_blank" rel="noopener noreferrer" }

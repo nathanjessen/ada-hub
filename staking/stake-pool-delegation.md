@@ -4,6 +4,10 @@ title: Stake Pool Delegation
 parent: Staking
 ---
 
+# {{ page.title }}
+
+---
+
 [Stake Pool Delegation](https://cardano.org/stake-pool-delegation/){: target="_blank" rel="noopener noreferrer" }
 
 [PoolTool](https://pooltool.io/){: target="_blank" rel="noopener noreferrer" }

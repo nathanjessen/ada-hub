@@ -4,6 +4,10 @@ title: Community
 has_children: true
 ---
 
+# {{ page.title }}
+
+---
+
 [Cardano Telegram](https://t.me/CardanoAnnouncements/){: target="_blank" rel="noopener noreferrer" }
 
 [Cardano Forum](https://forum.cardano.org/){: target="_blank" rel="noopener noreferrer" }
