@@ -19,3 +19,9 @@ aux_links_new_tab: true
 
 # Sort order for navigation links
 nav_sort: case_insensitive
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "page"

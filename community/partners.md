@@ -1,11 +1,6 @@
 ---
-layout: default
 title: Partners
 parent: Community
----
-
-# {{ page.title }}
-
 ---
 
 [Cardano Foundation](https://cardanofoundation.org/)

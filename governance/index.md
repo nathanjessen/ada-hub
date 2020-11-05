@@ -1,10 +1,5 @@
 ---
-layout: default
 title: Governance
----
-
-# {{ page.title }}
-
 ---
 
 [Cardano Governance](https://cardano.org/governance/)
@@ -12,3 +7,5 @@ title: Governance
 [Cardano Improvement Proposals](https://cips.cardano.org/)
 
 [Cardano On-Chain Voting](https://vote.crypto2099.io/)
+
+[Voltaire](https://roadmap.cardano.org/en/voltaire/)

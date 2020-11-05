@@ -1,11 +1,6 @@
 ---
-layout: default
 title: Blogs
 parent: Community
----
-
-# {{ page.title }}
-
 ---
 
 [Cardanians Blog](https://cardanians.io/en/blog)

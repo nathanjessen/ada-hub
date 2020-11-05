@@ -1,11 +1,6 @@
 ---
-layout: default
 title: Community
 has_children: true
----
-
-# {{ page.title }}
-
 ---
 
 [Cardano Telegram](https://t.me/CardanoAnnouncements/)

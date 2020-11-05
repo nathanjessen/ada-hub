@@ -1,10 +1,5 @@
 ---
-layout: default
 title: Exchanges
----
-
-# {{ page.title }}
-
 ---
 
 <script defer src="https://www.livecoinwatch.com/static/lcw-widget.js"></script>

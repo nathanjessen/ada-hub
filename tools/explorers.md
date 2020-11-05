@@ -1,11 +1,6 @@
 ---
-layout: default
 title: Explorers
 parent: Tools
----
-
-# {{ page.title }}
-
 ---
 
 [ADAex](https://adaex.org/)

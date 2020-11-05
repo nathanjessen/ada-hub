@@ -1,10 +1,5 @@
 ---
-layout: default
 title: Wallets
----
-
-# {{ page.title }}
-
 ---
 
 [AdaLite](https://adalite.io/)

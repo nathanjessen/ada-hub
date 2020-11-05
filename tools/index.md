@@ -1,11 +1,6 @@
 ---
-layout: default
 title: Tools
 has_children: true
----
-
-# {{ page.title }}
-
 ---
 
 [ADAtainment](https://www.adatainment.com/)

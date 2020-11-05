@@ -1,11 +1,6 @@
 ---
-layout: default
 title: Development
 has_children: true
----
-
-# {{ page.title }}
-
 ---
 
 [Cardano GraphQL](https://input-output-hk.github.io/cardano-graphql/)

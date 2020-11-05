@@ -1,11 +1,6 @@
 ---
-layout: default
 title: Stake Pool Delegation
 parent: Staking
----
-
-# {{ page.title }}
-
 ---
 
 [adafolio](https://adafolio.com/)
