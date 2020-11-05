@@ -1,6 +1,6 @@
 ---
 name: Delete link request
-about: Delete a link on the site
+about: Delete a link from the site
 title: 'Request: delete {Site name}'
 labels: delete-request
 assignees: nathanjessen
