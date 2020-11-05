@@ -5,4 +5,4 @@ nav_order: 1
 permalink: /
 ---
 
-Home
+A site dedicated to resources in the Cardano ecosystem.
