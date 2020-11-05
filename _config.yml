@@ -5,4 +5,4 @@ url: "https://nathanjessen.com"
 permalink: pretty
 
 theme: null
-remote_theme: "just-the-docs"
+remote_theme: pmarsceill/just-the-docs
