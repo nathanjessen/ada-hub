@@ -1,7 +1,7 @@
 title: Ada Pub
 description: A site dedicated to resources in the Cardano ecosystem.
-baseurl: "/ada-pub"
-url: "https://nathanjessen.com"
+baseurl: "/"
+url: "https://ada-pub.netlify.app/"
 permalink: pretty
 
 theme: null
