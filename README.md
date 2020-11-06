@@ -1,6 +1,6 @@
 # Ada Pub
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ab30ae30-ab32-4ea0-969b-a23df86355b6/deploy-status)](https://app.netlify.com/sites/gallant-panini-5b440d/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ab30ae30-ab32-4ea0-969b-a23df86355b6/deploy-status)](https://app.netlify.com/sites/ada-pub/deploys)
 
 A site dedicated to resources in the Cardano ecosystem.
 
