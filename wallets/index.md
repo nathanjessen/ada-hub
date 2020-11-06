@@ -13,4 +13,4 @@ title: Wallets
 
 [Medusa AdaWallet](https://adawallet.io/)
 
-[Yoroi Wallet](https://yoroi-wallet.com/#/)
+[Yoroi Wallet](https://yoroi-wallet.com/)

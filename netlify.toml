@@ -4,6 +4,3 @@
 
 [[plugins]]
 package = "netlify-plugin-checklinks"
-  [plugins.inputs]
-  # Report on all broken links to external pages.
-  checkExternal = true
