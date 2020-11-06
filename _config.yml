@@ -1,12 +1,18 @@
 title: Ada Pub
 description: A site dedicated to resources in the Cardano ecosystem.
-baseurl: "/"
-url: "https://ada-pub.netlify.app"
+baseurl: ""
+url: ""
 permalink: pretty
 
-theme: null
-remote_theme: pmarsceill/just-the-docs
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - netlify.toml
+  - README.md
 
+remote_theme: pmarsceill/just-the-docs
 color_scheme: ada
 
 # Aux links for the upper right navigation
