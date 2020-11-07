@@ -1,4 +1,4 @@
-title: Ada Pub
+title: Ada Hub
 description: A site dedicated to resources in the Cardano ecosystem.
 baseurl: ""
 url: ""
@@ -18,7 +18,7 @@ color_scheme: ada
 # Aux links for the upper right navigation
 aux_links:
   "View on GitHub":
-    - "https://github.com/nathanjessen/ada-pub"
+    - "https://github.com/nathanjessen/ada-hub"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
@@ -28,7 +28,7 @@ nav_sort: case_insensitive
 
 # Footer "Edit this page on GitHub" link text
 # gh_edit_link: false
-# gh_edit_repository: "https://github.com/nathanjessen/ada-pub"
+# gh_edit_repository: "https://github.com/nathanjessen/ada-hub"
 # gh_edit_branch: "main"
 # gh_edit_link_text: "Edit this page on GitHub."
 # gh_edit_source: docs
