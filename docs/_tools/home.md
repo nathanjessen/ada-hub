@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tools
-has_children: true
+title: Home
+nav_order: 1
 ---
 
 [ADAtainment](https://www.adatainment.com/)

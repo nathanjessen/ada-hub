@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Partners
-parent: Community
 ---
 
 [Cardano Foundation](https://cardanofoundation.org/)

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: GitHub
-parent: Development
 ---
 
 [cardano-foundation](https://github.com/cardano-foundation)

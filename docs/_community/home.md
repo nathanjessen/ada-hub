@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Community
-has_children: true
+title: Home
+nav_order: 1
 ---
 
 [Ambassador Program](https://cardano.org/ambassadors/)

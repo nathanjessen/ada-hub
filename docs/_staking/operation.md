@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Stake Pool Operation
-parent: Staking
+title: Operation
 ---
 
 [JorManager](https://bitbucket.org/muamw10/jormanager/src/develop/)

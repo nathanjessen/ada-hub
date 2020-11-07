@@ -38,9 +38,25 @@ nav_sort: case_insensitive
 # ga_tracking: UA-5555555-55
 # ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
 
-# defaults:
-#   -
-#     scope:
-#       path: ""
-#     values:
-#       layout: "page"
+collections_dir: docs
+
+collections:
+  community:
+    output: true
+  development:
+    output: true
+  staking:
+    output: true
+  tools:
+    output: true
+
+just_the_docs:
+  collections:
+    community:
+      name: Community
+    development:
+      name: Development
+    staking:
+      name: Staking
+    tools:
+      name: Tools

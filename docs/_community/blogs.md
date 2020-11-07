@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Blogs
-parent: Community
 ---
 
 [Cardanians Blog](https://cardanians.io/en/blog)

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Development
-has_children: true
+title: Home
+nav_order: 1
 ---
 
 [Cardano GraphQL](https://input-output-hk.github.io/cardano-graphql/)

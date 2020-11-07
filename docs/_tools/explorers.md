@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Explorers
-parent: Tools
 ---
 
 [ADAex](https://adaex.org/)
