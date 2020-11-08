@@ -41,6 +41,9 @@ nav_sort: case_insensitive
 collections_dir: docs
 
 collections:
+  default:
+    output: true
+    permalink: ""
   community:
     output: true
   development:
@@ -52,6 +55,8 @@ collections:
 
 just_the_docs:
   collections:
+    default:
+      name: null
     community:
       name: Community
     development:
